@@ -1,0 +1,312 @@
+.display input{
+    background-color: rgb(174, 245, 227);
+    width: 16%;
+    position: absolute;
+    left:40%;
+    top:10%;
+    height:7%;
+    font-family: cursive;
+    font-weight: bold;
+    color:black;
+    font-size: 25px;
+    border-radius: 10px ;
+    border-color: rgb(54, 54, 88);
+
+}
+::placeholder{
+    color:black;
+    font-family: cursive;
+    font-weight: bold;
+    font-size: 25px;
+
+}
+.buttons input{
+    background-color: rgb(134, 231, 6);
+    width: 60px;
+   
+
+}
+.one{
+    position: absolute;
+    top:17%;
+    left:40%;
+     border-color: yellow;
+     border-radius: 10px ;
+     width: 5%;
+     height: 5%;
+     font-family: cursive;
+     font-weight: bold;
+     color:black;
+     font-size: 25px;
+
+   
+}
+.two{
+    position: absolute;
+    top:17%;
+    left:44%;
+     border-color: yellow;
+     border-radius: 10px ;
+     width: 5%;
+     height: 5%;
+     font-family: cursive;
+     font-weight: bold;
+     color:black;
+     font-size: 25px;
+
+}
+.three{
+    position: absolute;
+    top:17%;
+    left:48%;
+     border-color: yellow;
+     border-radius: 10px ;
+     width: 5%;
+     height: 5%;
+     font-family: cursive;
+     font-weight: bold;
+     color:black;
+     font-size: 25px;
+}
+.four{
+    position: absolute;
+    top:17%;
+    left:52%;
+     border-color: yellow;
+     border-radius: 10px ;
+     width: 5%;
+     height: 5%;
+     font-family: cursive;
+     font-weight: bold;
+     color:black;
+     font-size: 25px;
+}
+.buttons1 input{
+    background-color: rgb(134, 231, 6);
+    width: 60px;
+}
+.five{
+    position: absolute;
+    top:23%;
+    left:40%;
+     border-color: yellow;
+     border-radius: 10px ;
+     width:5%;
+     height: 5%;
+     font-family: cursive;
+     font-weight: bold;
+     color:black;
+     font-size: 25px;
+}
+.six{
+    position: absolute;
+    top:23%;
+    left:44%;
+     border-color: yellow;
+     border-radius: 10px ;
+     width:5%;
+     height: 5%;
+     font-family: cursive;
+     font-weight: bold;
+     color:black;
+     font-size: 25px;
+}
+.seven{
+    position: absolute;
+    top:23%;
+    left:48%;
+     border-color: yellow;
+     border-radius: 10px ;
+     width:5%;
+     height: 5%;
+     font-family: cursive;
+     font-weight: bold;
+     color:black;
+     font-size: 25px;
+}
+.eight{
+    position: absolute;
+    top:23%;
+    left:52%;
+     border-color: yellow;
+     border-radius: 10px ;
+     width:5%;
+     height: 5%;
+     font-family: cursive;
+     font-weight: bold;
+     color:black;
+     font-size: 25px;
+}
+.buttons2 input{
+    background-color: rgb(134, 231, 6);
+    width: 60px;
+}
+.nine{
+    position: absolute;
+    top:29%;
+    left:40%;
+     border-color: yellow;
+     border-radius: 10px ;
+     width:5%;
+     height: 5%;
+     font-family: cursive;
+     font-weight: bold;
+     color:black;
+     font-size: 25px;
+}
+.ten{
+    position: absolute;
+    top:29%;
+    left:44%;
+     border-color: yellow;
+     border-radius: 10px ;
+     width:5%;
+     height: 5%;
+     font-family: cursive;
+     font-weight: bold;
+     color:black;
+     font-size: 25px;
+}
+.eleven{
+    position: absolute;
+    top:29%;
+    left:48%;
+     border-color: yellow;
+     border-radius: 10px ;
+     width:5%;
+     height: 5%;
+     font-family: cursive;
+     font-weight: bold;
+     color:black;
+     font-size: 25px;
+}
+.twelve{
+    position: absolute;
+    top:29%;
+    left:52%;
+     border-color: yellow;
+     border-radius: 10px ;
+     width:5%;
+     height: 5%;
+     font-family: cursive;
+     font-weight: bold;
+     color:black;
+     font-size: 25px;
+}
+.buttons3 input{
+    background-color: rgb(134, 231, 6);
+    width: 60px;
+}
+.thirteen{
+    position: absolute;
+    top:35%;
+    left:40%;
+     border-color: yellow;
+     border-radius: 10px ;
+     width:5%;
+     height: 5%;
+     font-family: cursive;
+     font-weight: bold;
+     color:black;
+     font-size: 25px;
+}
+.forteen{
+    position: absolute;
+    top:35%;
+    left:44%;
+     border-color: yellow;
+     border-radius: 10px ;
+     width:5%;
+     height: 5%;
+     font-family: cursive;
+     font-weight: bold;
+     color:black;
+     font-size: 25px;
+}
+.fifteen{
+    position: absolute;
+    top:35%;
+    left:48%;
+     border-color: yellow;
+     border-radius: 10px ;
+     width:5%;
+     height: 5%;
+     font-family: cursive;
+     font-weight: bold;
+     color:black;
+     font-size: 25px;
+}
+.sixteen{
+    position: absolute;
+    top:35%;
+    left:52%;
+     border-color: yellow;
+     border-radius: 10px ;
+     width:5%;
+     height: 5%;
+     font-family: cursive;
+     font-weight: bold;
+     color:black;
+     font-size: 25px;
+}
+.buttons4 input{
+    background-color:  rgb(134, 231, 6);
+    width:7.5%;
+}
+/* 
+.seventeen{
+    position: absolute;
+    top:41%;
+    left:48%;
+     border-color: yellow;
+     border-radius: 10px ;
+   
+     height: 5%;
+     font-family: cursive;
+     font-weight: bold;
+     color:black;
+     font-size: 25px;
+} */
+.eighteen{
+    position: absolute;
+    top:41%;
+    left:40%;
+     border-color: yellow;
+     border-radius: 10px ;
+    
+     height: 5%;
+     font-family: cursive;
+     font-weight: bold;
+     color:black;
+     font-size: 25px;
+}
+body{
+    background-color: rgb(250, 76, 111);
+    background-image: url(html-color-codes-color-tutorials-903ea3cb.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+   
+}
+.buttons5 button{
+    background-color: #e7f707;
+    width:7.5%;
+    border-color: yellow;
+     border-radius: 10px ;
+     position: absolute;
+    top:41%;
+    left:48%;
+     height: 5%;
+     font-family: cursive;
+     font-weight: bold;
+     color:black;
+     font-size: 25px;
+
+}
+h1{
+    position: absolute;
+    top:50%;
+    left: 38%;
+    color:yellow;
+    font-family: cursive;
+}
+
